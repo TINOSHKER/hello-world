@@ -1,0 +1,17 @@
+<html>
+<body>
+<form>
+* Title:<input type="text" name="title"/><br>
+* First name:<input type="text" name="title"/><br>
+* Last name<input type="text" name="title"/><br>
+* Address1:<input type="text" name="title"/><br>
+* City:<input type="text" name="title"/><br>
+* State/Province:<input type="text" name="title"/><br>
+* Zip/postal code:<input type="text" name="title"/><br>
+* email:<input type="text" name="title"/><br>
+* Number of glofers:<input type="text" name="title"/><br>
+* Amount:<input type="text" name="title"/><br>
+<input type="submit" name="register"><br>
+</form>
+</body>
+</html>
